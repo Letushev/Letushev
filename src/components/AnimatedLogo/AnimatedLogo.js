@@ -105,7 +105,7 @@ class AnimatedLogo extends Component {
   }
 
   render() {
-    if (!!this.state.animation) {
+    if (!!this.animation) {
       if (this.state.animated) {
         this.animation.start();
       } else {
