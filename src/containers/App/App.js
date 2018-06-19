@@ -12,7 +12,7 @@ import Home from '../../components/Home/Home';
 
 const Work = asyncComponent(() => import('../../components/Work/Work'));
 const About = asyncComponent(() => import('../../components/About/About'));
-
+const Contact = asyncComponent(() => import('../../components/Contact/Contact'));
 
 const classes = classNames.bind(styles);
 
@@ -42,6 +42,7 @@ class App extends Component {
             />
             <Route path='/work' component={ Work } />
             <Route path='/about' component={ About } />
+            <Route path='/contact' component={ Contact } />
             <Redirect to='/' />
           </Switch>
         </main>
