@@ -23,7 +23,7 @@ const Sidebar = props => {
         <SocialIcons />
         <p>
           If you would like to see the code of this website, please visit 
-          <a href='https://github.com/Letushev/portfolio'> this repository</a>
+          <a href='https://github.com/Letushev/letushev'> this repository</a>
         </p>
       </div>
     </div>
