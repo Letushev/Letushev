@@ -1,0 +1,57 @@
+@import '../../scss/base/variables';
+@import '../../scss/base/mixins';
+
+.about {
+  padding: 40px 5%;
+  min-height: 100vh;
+  background-color: $outer-space;
+  overflow: auto;
+
+  .heading {
+    @include heading(#fff);
+  }
+
+  .info {
+    margin-top: 50px;
+    text-align: center;
+
+    img {
+      width: 100%;
+      max-width: 450px;
+    }
+
+    div {
+      margin: 25px auto;
+      text-align: left;
+
+      p {
+        color: #fff;
+        font-size: 14px;
+        line-height: 20px;
+      }
+    }
+  }
+
+  @media (min-width: 550px) {
+    .info div p {
+      font-size: 16px;
+      line-height: 22px;
+    }
+  }
+  
+  @media (min-width: 900px) {
+    .info {
+      display: flex;
+      align-items: flex-start;
+
+      div {
+        margin: 0;
+        padding: 0 25px;
+
+        p:first-child {
+          margin-top: 0;
+        }
+      }
+    }
+  }
+}

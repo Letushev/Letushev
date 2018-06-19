@@ -1,0 +1,26 @@
+@import '../../scss/base/variables';
+@import '../../scss/base/mixins';
+
+.work-wrapper {
+  padding: 40px 5%;
+  min-height: 100vh;
+  
+  .heading {
+    @include heading($outer-space);
+  }
+
+  .projects-container {
+    max-width: 900px;
+    margin: 75px auto 25px auto;
+    
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 30px 20px;
+  }
+
+  @media (min-width: 800px) {
+    .projects-container {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}

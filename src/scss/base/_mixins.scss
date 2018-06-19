@@ -1,0 +1,17 @@
+@mixin heading($color) {
+  position: relative;
+  margin: 0;
+  color: $color;
+  text-transform: uppercase;
+  text-align: center;
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 50px;
+    left: calc(50% - 50px);
+    width: 100px;
+    height: 2px;
+    background-color: $color;
+  }
+}

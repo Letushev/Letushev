@@ -1,0 +1,83 @@
+@import '../../../scss/base/variables';
+
+.hamburger {
+  position: absolute;
+  z-index: 10;
+  top: 40px;
+  left: 5%;
+
+  width: 50px;
+  height: 50px;
+
+  background-color: $lochmara;
+  border-radius: 50%;
+  
+  transition: .5s;
+  cursor: pointer;
+
+  // central line
+  div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 5%;
+    background-color: #fff;
+    
+    // under and above lines
+    &::before,
+    &::after {
+      content: '';
+      position: absolute;
+      right: 0;
+      height: 100%;
+      width: 100%;
+      background-color: #fff;
+      transition: .5s;
+    }
+
+    &::before {
+      transform: translateY(-8px);
+      transform-origin: bottom right;
+    }
+
+    &::after {
+      transform: translateY(8px);
+      transform-origin: top right;
+    }
+  }
+
+  circle {
+    transition: 0.5s 0.3s;
+  }
+
+  &--arrow {
+    // rotate whole hamburger
+    transform: rotate(180deg);
+    
+    // transform hamburger to arrow
+    div {
+      &::before {
+        transform: rotate(55deg);
+      }
+
+      &::after {
+        transform: rotate(-55deg);
+      }
+
+      &::before,
+      &::after {
+        width: 50%;
+      }
+    }
+
+    circle {
+      stroke-dashoffset: 0;
+    }
+  }
+
+  &:hover {
+    background-color: $picton-blue;
+  }
+}

@@ -1,0 +1,86 @@
+@import '../../../scss/base/variables';
+
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  width: 100%;
+  min-height: 100%;
+  padding: 40px 0 50px calc(5% + 75px);
+
+  display: flex;
+  flex-direction: column;
+
+  background-color: $lochmara;
+  transition: .7s;
+  transition-timing-function: cubic-bezier(0.86, 0.01, 0.77, 0.78);
+
+  overflow: auto;
+
+  &--hidden {
+    transform: translateX(-100%);
+  }
+
+  .navigation-wrapper {
+    h1 {
+      position: relative;
+      text-transform: uppercase;
+      color: $outer-space;
+      font-size: 16px;
+  
+      &::after {
+        content: '';
+        position: absolute;
+        bottom: -15px;
+        left: 0;
+        width: 75px;
+        height: 1px;
+        background-color: $outer-space;
+      }
+    }
+    
+    nav {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      margin-top: 40px;
+    }
+  }
+
+  .extra-wrapper {
+    width: 200px;
+    margin-top: 25px;
+    transition: .3s;
+
+    p {
+      color: rgba(#fff, .8);
+      font-size: 14px;
+
+      a {
+        color: inherit;
+        outline: none;
+
+        &:hover,
+        &:focus {
+          color: $malachite;
+        }
+      }
+    }
+  }
+
+  @media (min-width: 700px) {
+    padding-top: 100px;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    .extra-wrapper {
+      margin-top: 0;
+      width: 225px;
+
+      p {
+        font-size: 16px;
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.main {
+  transition: transform .7s;
+  transition-timing-function: cubic-bezier(0.86, 0.01, 0.77, 0.78);
+  
+  &--hidden {
+    transform: translateX(100%);
+  }
+}
