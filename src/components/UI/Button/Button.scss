@@ -1,0 +1,41 @@
+@import '../../../scss/base/variables';
+
+.button {
+  display: block;
+  padding: 10px 15px;
+  margin: 5px auto;
+
+  background: none;
+  border: none;
+  outline: none;
+  box-shadow: 0 2px 5px $outer-space;
+
+  font: inherit;
+  text-transform: uppercase;
+
+  cursor: pointer;
+
+  &:disabled,
+  &:disabled:hover {
+    background: gray;
+    cursor: not-allowed;
+  }
+
+  &--colorful {
+    width: 150px;
+    border-radius: 10px;
+    background: linear-gradient(-45deg, $malachite 0%, $lochmara 100%);
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 2px;
+
+    &:active {
+      box-shadow: 0 1px 2px $outer-space;
+    }
+
+    &:hover,
+    &:focus {
+      background: linear-gradient(-45deg, $spring-green 0%, $shakespeare 100%);
+    }
+  }
+}

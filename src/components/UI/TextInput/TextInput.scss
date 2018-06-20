@@ -1,0 +1,52 @@
+@import '../../../scss/base/variables';
+
+.control-container {
+  margin: 35px 0;
+  position: relative;
+
+  label {
+    display: block;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: gray;
+  }
+
+  input, 
+  textarea {
+    width: 100%;
+    padding: 10px 15px;
+    border: 2px solid $outer-space;
+    background: none;
+    outline: none;
+    font: inherit;
+
+    &:focus {
+      border: 2px solid $lochmara;
+    }
+  }
+
+  textarea {
+    resize: vertical;
+    max-height: 300px;
+    min-height: 125px;
+  }
+
+  .error-message {
+    display: block;
+    color: $scarlet;
+    position: absolute;
+    bottom: -23px;
+  }
+
+  &--error {
+    input, 
+    textarea {
+      border-color: $scarlet;
+      
+      &:focus {
+        border-color: $scarlet;
+      }
+    }
+  }
+}

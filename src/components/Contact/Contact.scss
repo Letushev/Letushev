@@ -1,0 +1,16 @@
+@import '../../scss/base/variables';
+@import '../../scss/base/mixins';
+
+.contact {
+  min-height: 100%;
+  padding: 40px 5%;
+
+  .heading {
+    @include heading($outer-space);
+  }
+
+  form {
+    max-width: 500px;
+    margin: 75px auto;
+  }
+}

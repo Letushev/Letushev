@@ -3,7 +3,6 @@ import photo from '../../assets/images/photo.jpg';
 import styles from './About.scss';
 import withImagesLoading from '../../hoc/withImagesLoading';
 
-
 const About = () => {
   return (
     <section className={ styles['about'] + ' fadeIn' }>
