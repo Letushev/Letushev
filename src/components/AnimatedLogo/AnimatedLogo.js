@@ -141,7 +141,11 @@ class AnimatedLogo extends Component {
 
     return (
       !this.state.logo ? <Loader /> :
-      <Stage width={ 320 } height={ 320 }>
+      <Stage 
+        className='fadeIn'
+        width={ 320 } 
+        height={ 320 }
+      >
         { staticLayer }
         { animatedLayer }
       </Stage>

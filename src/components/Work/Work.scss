@@ -3,7 +3,7 @@
 
 .work-wrapper {
   padding: 40px 5%;
-  min-height: 100vh;
+  min-height: 100%;
   
   .heading {
     @include heading($outer-space);

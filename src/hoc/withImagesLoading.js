@@ -28,9 +28,7 @@ const withImagesLoading = (WrappedComponent, images) => {
 
     render() {
       return this.state.loading ? 
-        <div style={{ 'min-height': '100vh' }}>
-          <Loader />
-        </div> : 
+        <Loader /> : 
         <WrappedComponent { ...this.props } />;
     }
   };

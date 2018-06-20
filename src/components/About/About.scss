@@ -3,9 +3,8 @@
 
 .about {
   padding: 40px 5%;
-  min-height: 100vh;
+  min-height: 100%;
   background-color: $outer-space;
-  overflow: auto;
 
   .heading {
     @include heading(#fff);

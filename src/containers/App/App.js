@@ -4,7 +4,6 @@ import { Switch, Route, Redirect } from 'react-router-dom';
 import styles from './App.scss';
 import classNames from 'classnames/bind';
 
-import Wrapper from '../../hoc/Wrapper';
 import asyncComponent from '../../hoc/asyncComponent';
 import Hamburger from '../../components/Navigation/Hamburger/Hamburger';
 import Sidebar from '../../components/Navigation/Sidebar/Sidebar';
@@ -30,8 +29,12 @@ class App extends Component {
       'main--hidden': this.state.sidebarIsShown
     });
 
+    const wrapperClasses = classes('wrapper', {
+      'wrapper--scrollable': !this.state.sidebarIsShown
+    })
+
     return (
-      <Wrapper>  
+      <div className={ wrapperClasses }>  
         <Hamburger arrow={ this.state.sidebarIsShown } clicked={ this.toggleSidebar } />
         <main className={ mainClasses }>
           <Switch>
@@ -47,7 +50,7 @@ class App extends Component {
           </Switch>
         </main>
         <Sidebar visible={ this.state.sidebarIsShown } navItemsClicked={ this.toggleSidebar } />
-      </Wrapper>
+      </div>
     );
   }
 }

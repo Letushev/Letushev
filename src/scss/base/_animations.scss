@@ -1,0 +1,16 @@
+:global {
+  .fadeIn {
+    :local {
+      animation: fadeIn .7s;
+    }
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1
+  }
+}  

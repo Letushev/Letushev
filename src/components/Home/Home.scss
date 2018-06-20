@@ -1,17 +1,7 @@
 .canvas-container {
   min-height: 400px;
-  height: 100vh;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: fadeIn .7s;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1
-  }
 }

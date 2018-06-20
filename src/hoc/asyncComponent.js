@@ -16,12 +16,7 @@ const asyncComponent = importComponent => {
 
     render() {
       const C = this.state.component;
-
-      return C ? 
-        <C { ...this.props } /> : 
-        <div style={{ 'min-height': '100vh' }}>
-          <Loader />
-        </div>
+      return C ? <C { ...this.props } /> : <Loader />
     }
   };
 };

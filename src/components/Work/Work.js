@@ -53,7 +53,7 @@ class Work extends Component {
 
   render() {
     return (
-      <section className={ styles['work-wrapper'] }>
+      <section className={ styles['work-wrapper'] + ' fadeIn' }>
         <h1 className={ styles['heading'] }>Projects</h1>
         <div className={ styles['projects-container'] }>
           {

@@ -6,7 +6,7 @@ import withImagesLoading from '../../hoc/withImagesLoading';
 
 const About = () => {
   return (
-    <section className={ styles['about'] }>
+    <section className={ styles['about'] + ' fadeIn' }>
       <h1 className={ styles['heading'] }>About</h1>
       <div className={ styles['info'] }>
         <img src={ photo } alt='personal portrait' />
