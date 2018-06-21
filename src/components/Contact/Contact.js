@@ -29,12 +29,12 @@ class Contact extends Component {
         label: 'Name',
         validationRules: {
           required: true,
-          minLength: 3,
+          minLength: 2,
           maxLength: 75
         },
         valid: false,
         touched: false,
-        error: 'Must contain 3 - 75 characters'
+        error: 'Must contain 2 - 75 characters'
       },
       {
         elementType: 'input',
@@ -108,7 +108,11 @@ class Contact extends Component {
       message: event.target.message.value
     }, headers)
       .then(() => {
-        this.setState({ loading: false, success: true });
+        const img = new Image();
+        img.src = danceImg;
+        img.onload = () => {
+          this.setState({ loading: false, success: true });
+        }
       })
       .catch(() => {
         const message = 'Oops, some troubles with sending messsage. Please try again later.';
