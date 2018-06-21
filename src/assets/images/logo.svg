@@ -1,3 +1,198 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640"><defs><path d="M380 300L340 260L280 220L220 180L160 160L120 160L100 240L100 260L80 300L100 320L100 360L100 400L120 420L140 420L200 440L240 480L380 300Z" id="e2L0GQB8Tf"></path><path d="M100 260L100 300L80 300L100 260Z" id="dLehEw2uC"></path><path d="M80 300L100 300L100 320L80 300Z" id="a21ZPNVeEh"></path><path d="M100 240L120 160L120 240L100 260L100 240Z" id="b1AqhFVxU6"></path><path d="" id="cF1Y0H16u"></path><path d="M100 260L120 240L140 260L120 320L100 260Z" id="cpBqptrPd"></path><path d="M120 240L120 200L160 220L140 260L120 240Z" id="b1AaezVC5"></path><path d="M120 160L160 180L120 200L120 160Z" id="b2IdsPXAnm"></path><path d="M200 200L160 180L120 200L160 220L200 200Z" id="dLCCgEeqZ"></path><path d="M120 160L160 160L220 180L200 200L120 160Z" id="j1Gfb5RJ2T"></path><path d="M100 320L100 400L120 320L100 320Z" id="bWdEHy0YC"></path><path d="M120 420L100 400L120 320L140 420L120 420Z" id="cqgTNv6bP"></path><path d="M120 320L140 420L200 440L120 320Z" id="bsN8DpqPA"></path><path d="M200 440L120 320L180 280L200 440Z" id="a1bxvFuxAI"></path><path d="M220 180L340 260L200 200L220 180Z" id="a1PHFtU3Q2"></path><path d="M200 200L260 280L340 260L200 200Z" id="crLxhmV2B"></path><path d="M300 340L340 260L380 300L300 340Z" id="bw9wpWi1W"></path><path d="M180 280L200 200L260 280L180 280Z" id="a27OtMdUIN"></path><path d="M260 280L340 260L300 340L260 280Z" id="aqHN6wdD"></path><path d="M260 280L180 280L300 340L260 280Z" id="c2Tjv6WCB"></path><path d="M180 280L260 420L300 340L180 280Z" id="aLgPBgygj"></path><path d="M380 300L300 340L260 420L240 480L380 300Z" id="f1iL9hglH"></path><path d="M120 320L100 260L100 320L120 320Z" id="a26OEOhxn"></path><path d="M420 520L440 480L380 300L360 500L360 535.59L280 560L240 480" id="bruMiKKwG"></path><path d="M360 500L420 520L360 500Z" id="e3zpJGS2Dl"></path><path d="M160 160L220 180L340 260L380 300L420 260L420 180L360 100L260 60L180 80L140 120L120 160L160 160Z" id="bVTkNivgr"></path><path d="M240 480L280 480L280 560L240 480Z" id="cMoaomfox"></path><path d="M240 480L380 300L280 480L240 480Z" id="j30mE0UWHY"></path><path d="M380 300L340 420L280 480L380 300Z" id="c4hEAlkukG"></path><path d="M380 300L360 500L340 420L380 300Z" id="a2MX5p98zb"></path><path d="M340 420L280 480L360 500L340 420Z" id="b9gqFcY15"></path><path d="M279.31 480.68L357.28 499.33L280.7 560.67L279.31 480.68Z" id="c19Uj0UNNu"></path><path d="M400 480L420 520L360 500L400 480Z" id="a6BHxFSHVj"></path><path d="M400 480L380 300L360 500L400 480Z" id="c2mpRnrqer"></path><path d="M400 480L440 480L420 520L400 480Z" id="b2JwmdJNhw"></path><path d="M440 480L380 300L400 480L440 480Z" id="c3cTJvPk"></path><path d="M360 534.52L360 496.88L280 560L360 534.52Z" id="cOoZHgY5"></path><path d="M140 120L160 160L120 160L140 120Z" id="dzq3n7x9d"></path><path d="M160 120L180 120L160 160L160 120Z" id="c7UECQvnBK"></path><path d="M160 120L160 160L140 120L160 120Z" id="b2yy12eLde"></path><path d="M180 80L160 120L140 120L180 80Z" id="dg6RO3Chc"></path><path d="M160 120L180 80L180 120L160 120Z" id="b1HooiHLj"></path><path d="M180 80L220 100L180 120L180 80Z" id="bLxnPEQNR"></path><path d="M180 80L260 60L220 100L180 80Z" id="b3I7gFrIu"></path><path d="M180 120L200 160L160 160L180 120Z" id="au3N2Zh5r"></path><path d="M160 160L200 160L220 180L160 160Z" id="bs1bkvxh"></path><path d="M180 120L220 100L200 160L180 120Z" id="d6GPIDKr0"></path><path d="M260 60L300 120L220 100L260 60Z" id="dxXKsc3z9"></path><path d="M260 60L360 100L300 120L260 60Z" id="adqmUkbG1"></path><path d="M420 180L380 160L360 100L420 180Z" id="i9z8gE2cA"></path><path d="M300 120L260 160L220 100L300 120Z" id="a1KUAErb6"></path><path d="M200 160L220 100L260 160L200 160Z" id="fRMAAFG7s"></path><path d="M260 160L200 160L220 180L260 160Z" id="a1gBRKWBeJ"></path><path d="M220 180L260 160L340 260L220 180Z" id="defnrPSFU"></path><path d="M260 160L300 120L340 260L260 160Z" id="anNnxXCnt"></path><path d="M300 120L360 100L380 160L300 120Z" id="d1ZEXjgZz9"></path><path d="M300 120L380 160L340 260L300 120Z" id="h1wslIFLvq"></path><path d="M420 260L380 260L380 300L420 260Z" id="c1SSxDSikA"></path><path d="M380 260L340 260L380 300L380 260Z" id="c2Kw3a7i6"></path><path d="M340 260L380 160L380 260L340 260Z" id="b3mZE0ikGP"></path><path d="M380 260L380 160L420 260L380 260Z" id="a4WU7FuYK"></path><path d="M380 160L420 180L420 260L380 160Z" id="ddhwPOZE2"></path><path d="M260 420L220 420L200 440L240 480L260 420Z" id="k2L210ijh9"></path><path d="M220 420L260 420L180 280L200 440L220 420Z" id="a32nGgquIe"></path><path d="M180 280L140 260L120 320L180 280Z" id="bMEQRKSH6"></path><path d="M200 200L160 220L140 260L180 280L200 200Z" id="d2fWxTmRuy"></path></defs><g><g><g><use xlink:href="#e2L0GQB8Tf" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#dLehEw2uC" opacity="1" fill="#c68642" fill-opacity="1"></use><g><use xlink:href="#dLehEw2uC" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a21ZPNVeEh" opacity="1" fill="#8d5524" fill-opacity="1"></use><g><use xlink:href="#a21ZPNVeEh" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b1AqhFVxU6" opacity="1" fill="#8d5524" fill-opacity="1"></use><g><use xlink:href="#b1AqhFVxU6" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#cF1Y0H16u" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#cpBqptrPd" opacity="1" fill="#c68642" fill-opacity="1"></use><g><use xlink:href="#cpBqptrPd" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b1AaezVC5" opacity="1" fill="#f1c27d" fill-opacity="1"></use><g><use xlink:href="#b1AaezVC5" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b2IdsPXAnm" opacity="1" fill="#8d5524" fill-opacity="1"></use><g><use xlink:href="#b2IdsPXAnm" opacity="1" fill-opacity="0" stroke="#8d5524" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#dLCCgEeqZ" opacity="1" fill="#f1c27d" fill-opacity="1"></use><g><use xlink:href="#dLCCgEeqZ" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#j1Gfb5RJ2T" opacity="1" fill="#c68642" fill-opacity="1"></use><g><use xlink:href="#j1Gfb5RJ2T" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#bWdEHy0YC" opacity="1" fill="#8d5524" fill-opacity="1"></use><g><use xlink:href="#bWdEHy0YC" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#cqgTNv6bP" opacity="1" fill="#c68642" fill-opacity="1"></use><g><use xlink:href="#cqgTNv6bP" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#bsN8DpqPA" opacity="1" fill="#e0ac69" fill-opacity="1"></use><g><use xlink:href="#bsN8DpqPA" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a1bxvFuxAI" opacity="1" fill="#fff9c4" fill-opacity="1"></use><g><use xlink:href="#a1bxvFuxAI" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a1PHFtU3Q2" opacity="1" fill="#8d5524" fill-opacity="1"></use><g><use xlink:href="#a1PHFtU3Q2" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#crLxhmV2B" opacity="1" fill="#c68642" fill-opacity="1"></use><g><use xlink:href="#crLxhmV2B" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#bw9wpWi1W" opacity="1" fill="#8d5524" fill-opacity="1"></use><g><use xlink:href="#bw9wpWi1W" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a27OtMdUIN" opacity="1" fill="#ffdbac" fill-opacity="1"></use><g><use xlink:href="#a27OtMdUIN" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#aqHN6wdD" opacity="1" fill="#f1c27d" fill-opacity="1"></use><g><use xlink:href="#aqHN6wdD" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#c2Tjv6WCB" opacity="1" fill="#fff3e0" fill-opacity="1"></use><g><use xlink:href="#c2Tjv6WCB" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#aLgPBgygj" opacity="1" fill="#fff9c4" fill-opacity="1"></use><g><use xlink:href="#aLgPBgygj" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#f1iL9hglH" opacity="1" fill="#f1c27d" fill-opacity="1"></use><g><use xlink:href="#f1iL9hglH" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a26OEOhxn" opacity="1" fill="#8d5524" fill-opacity="1"></use><g><use xlink:href="#a26OEOhxn" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#bruMiKKwG" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#e3zpJGS2Dl" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#bVTkNivgr" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#cMoaomfox" opacity="1" fill="#007cba" fill-opacity="1"></use><g><use xlink:href="#cMoaomfox" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#j30mE0UWHY" opacity="1" fill="#008dd2" fill-opacity="1"></use><g><use xlink:href="#j30mE0UWHY" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#c4hEAlkukG" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#c4hEAlkukG" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a2MX5p98zb" opacity="1" fill="#90caf9" fill-opacity="1"></use><g><use xlink:href="#a2MX5p98zb" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b9gqFcY15" opacity="1" fill="#90caf9" fill-opacity="1"></use><g><use xlink:href="#b9gqFcY15" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#c19Uj0UNNu" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#c19Uj0UNNu" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a6BHxFSHVj" opacity="1" fill="#008dd2" fill-opacity="1"></use><g><use xlink:href="#a6BHxFSHVj" opacity="1" fill-opacity="0" stroke="#007cba" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#c2mpRnrqer" opacity="1" fill="#0d47a1" fill-opacity="1"></use><g><use xlink:href="#c2mpRnrqer" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b2JwmdJNhw" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#b2JwmdJNhw" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#c3cTJvPk" opacity="1" fill="#008dd2" fill-opacity="1"></use><g><use xlink:href="#c3cTJvPk" opacity="1" fill-opacity="0" stroke="#008dd2" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#cOoZHgY5" opacity="1" fill="#008dd2" fill-opacity="1"></use><g><use xlink:href="#cOoZHgY5" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#dzq3n7x9d" opacity="1" fill="#0d47a1" fill-opacity="1"></use><g><use xlink:href="#dzq3n7x9d" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#c7UECQvnBK" opacity="1" fill="#008dd2" fill-opacity="1"></use><g><use xlink:href="#c7UECQvnBK" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b2yy12eLde" opacity="1" fill="#007cba" fill-opacity="1"></use><g><use xlink:href="#b2yy12eLde" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#dg6RO3Chc" opacity="1" fill="#0d47a1" fill-opacity="1"></use><g><use xlink:href="#dg6RO3Chc" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b1HooiHLj" opacity="1" fill="#007cba" fill-opacity="1"></use><g><use xlink:href="#b1HooiHLj" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#bLxnPEQNR" opacity="1" fill="#008dd2" fill-opacity="1"></use><g><use xlink:href="#bLxnPEQNR" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b3I7gFrIu" opacity="1" fill="#0d47a1" fill-opacity="1"></use><g><use xlink:href="#b3I7gFrIu" opacity="1" fill-opacity="0" stroke="#0d47a1" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#au3N2Zh5r" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#au3N2Zh5r" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#bs1bkvxh" opacity="1" fill="#90caf9" fill-opacity="1"></use><g><use xlink:href="#bs1bkvxh" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#d6GPIDKr0" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#d6GPIDKr0" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#dxXKsc3z9" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#dxXKsc3z9" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#adqmUkbG1" opacity="1" fill="#0d47a1" fill-opacity="1"></use><g><use xlink:href="#adqmUkbG1" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#i9z8gE2cA" opacity="1" fill="#0d47a1" fill-opacity="1"></use><g><use xlink:href="#i9z8gE2cA" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a1KUAErb6" opacity="1" fill="#90caf9" fill-opacity="1"></use><g><use xlink:href="#a1KUAErb6" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#fRMAAFG7s" opacity="1" fill="#90caf9" fill-opacity="1"></use><g><use xlink:href="#fRMAAFG7s" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a1gBRKWBeJ" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#a1gBRKWBeJ" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#defnrPSFU" opacity="1" fill="#90caf9" fill-opacity="1"></use><g><use xlink:href="#defnrPSFU" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#anNnxXCnt" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#anNnxXCnt" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#d1ZEXjgZz9" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#d1ZEXjgZz9" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#h1wslIFLvq" opacity="1" fill="#90caf9" fill-opacity="1"></use><g><use xlink:href="#h1wslIFLvq" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#c1SSxDSikA" opacity="1" fill="#0d47a1" fill-opacity="1"></use><g><use xlink:href="#c1SSxDSikA" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#c2Kw3a7i6" opacity="1" fill="#007cba" fill-opacity="1"></use><g><use xlink:href="#c2Kw3a7i6" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#b3mZE0ikGP" opacity="1" fill="#49ade2" fill-opacity="1"></use><g><use xlink:href="#b3mZE0ikGP" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a4WU7FuYK" opacity="1" fill="#007cba" fill-opacity="1"></use><g><use xlink:href="#a4WU7FuYK" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#ddhwPOZE2" opacity="1" fill="#0d47a1" fill-opacity="1"></use><g><use xlink:href="#ddhwPOZE2" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#k2L210ijh9" opacity="1" fill="#c68642" fill-opacity="1"></use><g><use xlink:href="#k2L210ijh9" opacity="1" fill-opacity="0" stroke="#8d5524" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#a32nGgquIe" opacity="1" fill="#ffdbac" fill-opacity="1"></use><g><use xlink:href="#a32nGgquIe" opacity="1" fill-opacity="0" stroke="#8d5524" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#bMEQRKSH6" opacity="1" fill="#ffdbac" fill-opacity="1"></use><g><use xlink:href="#bMEQRKSH6" opacity="1" fill-opacity="0" stroke="#8d5524" stroke-width="0" stroke-opacity="1"></use></g></g><g><use xlink:href="#d2fWxTmRuy" opacity="1" fill="#fff3e0" fill-opacity="1"></use><g><use xlink:href="#d2fWxTmRuy" opacity="1" fill-opacity="0" stroke="#8d5524" stroke-width="0" stroke-opacity="1"></use></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg version="1.1" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path id="bk" d="m380 300l-40-40-60-40-60-40-60-20h-40l-20 80v20l-20 40 20 20v40 40l20 20h20l60 20 40 40 140-180z"/>
+<path id="m" d="m100 260v40h-20l20-40z"/>
+<path id="be" d="m80 300h20v20l-20-20z"/>
+<path id="ar" d="m100 240l20-80v80l-20 20v-20z"/>
+<path id="t" d="m100 260l20-20 20 20-20 60-20-60z"/>
+<path id="as" d="m120 240v-40l40 20-20 40-20-20z"/>
+<path id="ap" d="m120 160l40 20-40 20v-40z"/>
+<path id="n" d="m200 200l-40-20-40 20 40 20 40-20z"/>
+<path id="c" d="m120 160h40l60 20-20 20-80-40z"/>
+<path id="ah" d="m100 320v80l20-80h-20z"/>
+<path id="s" d="m120 420l-20-20 20-80 20 100h-20z"/>
+<path id="af" d="m120 320l20 100 60 20-80-120z"/>
+<path id="bg" d="m200 440l-80-120 60-40 20 160z"/>
+<path id="bh" d="m220 180l120 80-140-60 20-20z"/>
+<path id="r" d="m200 200l60 80 80-20-140-60z"/>
+<path id="ae" d="m300 340l40-80 40 40-80 40z"/>
+<path id="bc" d="m180 280l20-80 60 80h-80z"/>
+<path id="au" d="m260 280l80-20-40 80-40-60z"/>
+<path id="aa" d="m260 280h-80l120 60-40-60z"/>
+<path id="ax" d="m180 280l80 140 40-80-120-60z"/>
+<path id="g" d="m380 300l-80 40-40 80-20 60 140-180z"/>
+<path id="bd" d="m120 320l-20-60v60h20z"/>
+<path id="bl" d="m420 520l20-40-60-180-20 200v35.59l-80 24.41-40-80"/>
+<path id="bj" d="m360 500l60 20-60-20z"/>
+<path id="bm" d="m160 160l60 20 120 80 40 40 40-40v-80l-60-80-100-40-80 20-40 40-20 40h40z"/>
+<path id="v" d="m240 480h40v80l-40-80z"/>
+<path id="b" d="m240 480l140-180-100 180h-40z"/>
+<path id="x" d="m380 300l-40 120-60 60 100-180z"/>
+<path id="bb" d="m380 300l-20 200-20-80 40-120z"/>
+<path id="ak" d="m340 420l-60 60 80 20-20-80z"/>
+<path id="ad" d="m279.31 480.68l77.97 18.65-76.58 61.34-1.39-79.99z"/>
+<path id="ay" d="m400 480l20 40-60-20 40-20z"/>
+<path id="z" d="m400 480l-20-180-20 200 40-20z"/>
+<path id="ao" d="m400 480h40l-20 40-20-40z"/>
+<path id="y" d="m440 480l-60-180 20 180h40z"/>
+<path id="u" d="m360 534.52v-37.64l-80 63.12 80-25.48z"/>
+<path id="h" d="m140 120l20 40h-40l20-40z"/>
+<path id="w" d="m160 120h20l-20 40v-40z"/>
+<path id="an" d="m160 120v40l-20-40h20z"/>
+<path id="j" d="m180 80l-20 40h-20l40-40z"/>
+<path id="aq" d="m160 120l20-40v40h-20z"/>
+<path id="aj" d="m180 80l40 20-40 20v-40z"/>
+<path id="am" d="m180 80l80-20-40 40-40-20z"/>
+<path id="at" d="m180 120l20 40h-40l20-40z"/>
+<path id="ag" d="m160 160h40l20 20-60-20z"/>
+<path id="o" d="m180 120l40-20-20 60-20-40z"/>
+<path id="i" d="m260 60l40 60-80-20 40-40z"/>
+<path id="aw" d="m260 60l100 40-60 20-40-60z"/>
+<path id="d" d="m420 180l-40-20-20-60 60 80z"/>
+<path id="bi" d="m300 120l-40 40-40-60 80 20z"/>
+<path id="f" d="m200 160l20-60 40 60h-60z"/>
+<path id="bf" d="m260 160h-60l20 20 40-20z"/>
+<path id="k" d="m220 180l40-20 80 100-120-80z"/>
+<path id="av" d="m260 160l40-40 40 140-80-100z"/>
+<path id="q" d="m300 120l60-20 20 60-80-40z"/>
+<path id="e" d="m300 120l80 40-40 100-40-140z"/>
+<path id="ac" d="m420 260h-40v40l40-40z"/>
+<path id="ab" d="m380 260h-40l40 40v-40z"/>
+<path id="al" d="m340 260l40-100v100h-40z"/>
+<path id="az" d="m380 260v-100l40 100h-40z"/>
+<path id="l" d="m380 160l40 20v80l-40-100z"/>
+<path id="a" d="m260 420h-40l-20 20 40 40 20-60z"/>
+<path id="ba" d="m220 420h40l-80-140 20 160 20-20z"/>
+<path id="ai" d="m180 280l-40-20-20 60 60-40z"/>
+<path id="p" d="m200 200l-40 20-20 40 40 20 20-80z"/>
+</defs>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bk"/>
+<use fill="#c68642" xlink:href="#m"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#m"/>
+<use fill="#8d5524" xlink:href="#be"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#be"/>
+<use fill="#8d5524" xlink:href="#ar"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ar"/>
+<use fill-opacity="0" stroke="#000000" xlink:href="#cF1Y0H16u"/>
+<use fill="#c68642" xlink:href="#t"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#t"/>
+<use fill="#f1c27d" xlink:href="#as"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#as"/>
+<use fill="#8d5524" xlink:href="#ap"/>
+<use fill-opacity="0" stroke="#8d5524" stroke-width="0" xlink:href="#ap"/>
+<use fill="#f1c27d" xlink:href="#n"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#n"/>
+<use fill="#c68642" xlink:href="#c"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#c"/>
+<use fill="#8d5524" xlink:href="#ah"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ah"/>
+<use fill="#c68642" xlink:href="#s"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#s"/>
+<use fill="#e0ac69" xlink:href="#af"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#af"/>
+<use fill="#fff9c4" xlink:href="#bg"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bg"/>
+<use fill="#8d5524" xlink:href="#bh"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bh"/>
+<use fill="#c68642" xlink:href="#r"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#r"/>
+<use fill="#8d5524" xlink:href="#ae"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ae"/>
+<use fill="#ffdbac" xlink:href="#bc"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bc"/>
+<use fill="#f1c27d" xlink:href="#au"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#au"/>
+<use fill="#fff3e0" xlink:href="#aa"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#aa"/>
+<use fill="#fff9c4" xlink:href="#ax"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ax"/>
+<use fill="#f1c27d" xlink:href="#g"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#g"/>
+<use fill="#8d5524" xlink:href="#bd"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bd"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bl"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bj"/>
+<use fill-opacity="0" stroke="#000000" xlink:href="#bm"/>
+<use fill="#007cba" xlink:href="#v"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#v"/>
+<use fill="#008dd2" xlink:href="#b"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#b"/>
+<use fill="#49ade2" xlink:href="#x"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#x"/>
+<use fill="#90caf9" xlink:href="#bb"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bb"/>
+<use fill="#90caf9" xlink:href="#ak"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ak"/>
+<use fill="#49ade2" xlink:href="#ad"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ad"/>
+<use fill="#008dd2" xlink:href="#ay"/>
+<use fill-opacity="0" stroke="#007cba" stroke-width="0" xlink:href="#ay"/>
+<use fill="#0d47a1" xlink:href="#z"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#z"/>
+<use fill="#49ade2" xlink:href="#ao"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ao"/>
+<use fill="#008dd2" xlink:href="#y"/>
+<use fill-opacity="0" stroke="#008dd2" stroke-width="0" xlink:href="#y"/>
+<use fill="#008dd2" xlink:href="#u"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#u"/>
+<use fill="#0d47a1" xlink:href="#h"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#h"/>
+<use fill="#008dd2" xlink:href="#w"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#w"/>
+<use fill="#007cba" xlink:href="#an"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#an"/>
+<use fill="#0d47a1" xlink:href="#j"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#j"/>
+<use fill="#007cba" xlink:href="#aq"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#aq"/>
+<use fill="#008dd2" xlink:href="#aj"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#aj"/>
+<use fill="#0d47a1" xlink:href="#am"/>
+<use fill-opacity="0" stroke="#0d47a1" stroke-width="0" xlink:href="#am"/>
+<use fill="#49ade2" xlink:href="#at"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#at"/>
+<use fill="#90caf9" xlink:href="#ag"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ag"/>
+<use fill="#49ade2" xlink:href="#o"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#o"/>
+<use fill="#49ade2" xlink:href="#i"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#i"/>
+<use fill="#0d47a1" xlink:href="#aw"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#aw"/>
+<use fill="#0d47a1" xlink:href="#d"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#d"/>
+<use fill="#90caf9" xlink:href="#bi"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bi"/>
+<use fill="#90caf9" xlink:href="#f"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#f"/>
+<use fill="#49ade2" xlink:href="#bf"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#bf"/>
+<use fill="#90caf9" xlink:href="#k"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#k"/>
+<use fill="#49ade2" xlink:href="#av"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#av"/>
+<use fill="#49ade2" xlink:href="#q"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#q"/>
+<use fill="#90caf9" xlink:href="#e"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#e"/>
+<use fill="#0d47a1" xlink:href="#ac"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ac"/>
+<use fill="#007cba" xlink:href="#ab"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#ab"/>
+<use fill="#49ade2" xlink:href="#al"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#al"/>
+<use fill="#007cba" xlink:href="#az"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#az"/>
+<use fill="#0d47a1" xlink:href="#l"/>
+<use fill-opacity="0" stroke="#000000" stroke-width="0" xlink:href="#l"/>
+<use fill="#c68642" xlink:href="#a"/>
+<use fill-opacity="0" stroke="#8d5524" stroke-width="0" xlink:href="#a"/>
+<use fill="#ffdbac" xlink:href="#ba"/>
+<use fill-opacity="0" stroke="#8d5524" stroke-width="0" xlink:href="#ba"/>
+<use fill="#ffdbac" xlink:href="#ai"/>
+<use fill-opacity="0" stroke="#8d5524" stroke-width="0" xlink:href="#ai"/>
+<use fill="#fff3e0" xlink:href="#p"/>
+<use fill-opacity="0" stroke="#8d5524" stroke-width="0" xlink:href="#p"/>
+</svg>
