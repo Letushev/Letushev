@@ -9,8 +9,15 @@ const Name = () => {
       <Text
         x='0'
         y='0'
-        width='70'
-        text='Olexiy Letushev'
+        text='Olexiy'
+        fontFamily={ fontFamily }
+        fontSize={ fontSize }
+        fill='#292f33'
+      />
+      <Text
+        x='0'
+        y='15'
+        text='Letushev'
         fontFamily={ fontFamily }
         fontSize={ fontSize }
         fill='#292f33'
@@ -18,8 +25,15 @@ const Name = () => {
       <Text
         x='0'
         y='40'
-        width='80'
-        text='Front-end Developer'
+        text='Front-end'
+        fontFamily={ fontFamily }
+        fontSize={ fontSize }
+        fill='#007cba'
+      />
+      <Text
+        x='0'
+        y='55'
+        text='Developer'
         fontFamily={ fontFamily }
         fontSize={ fontSize }
         fill='#007cba'
