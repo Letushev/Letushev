@@ -18,7 +18,7 @@ const About = () => {
           next - some portraits of people and finally - nature using gouache.</p>
           <p>I decided to enter the Cybernetics department, because in school 
           I was good at math and physics. At university I fell in love with programming, 
-          but I missed creating something breautiful, so I started to search something 
+          but I missed creating something beautiful, so I started to search something 
           that combines programming with painting.
           That is how I began my journey as a front-end developer.
           <br />
