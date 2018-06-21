@@ -1,3 +1,5 @@
+[Demo](https://olexiy-letushev.firebaseapp.com/)
+
 ### What is used:
 * React with create-react-app
 * Konva framework to work with animated canvas (react-konva module)
