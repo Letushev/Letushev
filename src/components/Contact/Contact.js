@@ -1,13 +1,20 @@
 import React, { Component } from 'react';
-import styles from './Contact.scss';
 import axios from 'axios';
+
+import styles from './Contact.scss';
+
 import Button from '../UI/Button/Button';
 import TextInput from '../UI/TextInput/TextInput';
-import { checkControlValidity } from '../../shared/helpers';
 import Loader from '../UI/Loader/Loader';
+import Wrapper from '../../hoc/Wrapper';
+
+import { checkControlValidity } from '../../shared/helpers';
+import danceImg from '../../assets/images/dance.svg';
 
 class Contact extends Component {
   state = {
+    success: false,
+    error: null,
     loading: false,
     formIsValid: false,
     controls: [
@@ -95,23 +102,30 @@ class Contact extends Component {
     const headers = new Headers();
     headers.append('Content-Type', 'application/json');
 
-    axios.post('https://usebasin.com/f/c41e54f9476a.json', {
+    axios.post('https://usebasin.com/f/c41e54f9476a', {
       name: event.target.name.value,
       email: event.target.email.value,
       message: event.target.message.value
     }, headers)
       .then(() => {
-        this.setState({ loading: false });
+        this.setState({ loading: false, success: true });
       })
       .catch(() => {
-        this.setState({ loading: false });
+        const message = 'Oops, some troubles with sending messsage. Please try again later.';
+        this.setState({ loading: false, error: message });
       });
   }
 
   render () {
-    return (
-      this.state.loading ? <Loader /> :
-      <section className={ styles['contact'] + ' fadeIn' }>
+    const successMessage = (
+      <div className={ styles['success-message'] }>
+        <img src={ danceImg } alt='happy dancing people' />
+        <p>Thank you! <br /> Your message has been sent successfully.</p>
+      </div>
+    );
+
+    const contactForm = (
+      <Wrapper>
         <h1 className={ styles['heading'] }>Get in touch</h1>
         <form onSubmit={ this.onMessageSend } >
           {
@@ -128,8 +142,22 @@ class Contact extends Component {
               />
             ))
           }
+          { 
+            this.state.error ? 
+              <p className={ styles['error'] }>
+                { this.state.error }
+              </p> : 
+              null 
+          }
           <Button type='colorful' disabled={ !this.state.formIsValid }>Send</Button>
         </form>
+      </Wrapper>
+    );
+
+    return (
+      this.state.loading ? <Loader /> :
+      <section className={ styles['contact'] + ' fadeIn' }>
+        { this.state.success ? successMessage : contactForm }
       </section>
     );
   }
